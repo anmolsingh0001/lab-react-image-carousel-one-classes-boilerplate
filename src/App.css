@@ -9,6 +9,73 @@
 
 }
 
+.style{
+  background-color: white;
+  position: absolute;
+  top: 8%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border-radius: 0.5rem;
+  height: 10vh;
+  left: 44%;
+    right: 44%;
+}
+
+.style2{
+  background-color: white;
+  position: absolute;
+  bottom: 8%;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  border-radius: 0.5rem;
+  height: 14vh;
+  margin-left: 9%;
+  width: 25vw;
+}
+
+.click2{
+  height: 90vh;
+  width: 5vw;
+  background-color: black;
+  position: absolute;
+  right: 25%;
+  top: 4.6%;
+  color: white;
+}
+
+.click{
+  height: 90vh;
+  width: 5vw;
+  background-color: black;
+  position: absolute;
+  left: 25%;
+  top: 4.6%;
+  color: white;
+}
+
+.back{
+  position: absolute;
+  top: 50%;
+  left: 27%;
+  color: white;
+}
+
+.for{
+  position: absolute;
+  top: 50%;
+  right: 27%;
+  color: white;
+}
+
+.img{
+  height: 90vh;
+  width: 40vw;
+}
+
 body {
   margin: 0;
   padding: 0;
